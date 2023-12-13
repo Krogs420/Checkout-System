@@ -1,0 +1,15 @@
+C:\Users\User\KEA\Checkout System\Checkout\bin\Debug\net6.0\Checkout.exe
+C:\Users\User\KEA\Checkout System\Checkout\bin\Debug\net6.0\Checkout.deps.json
+C:\Users\User\KEA\Checkout System\Checkout\bin\Debug\net6.0\Checkout.runtimeconfig.json
+C:\Users\User\KEA\Checkout System\Checkout\bin\Debug\net6.0\Checkout.dll
+C:\Users\User\KEA\Checkout System\Checkout\bin\Debug\net6.0\Checkout.pdb
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.csproj.AssemblyReference.cache
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.AssemblyInfoInputs.cache
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.AssemblyInfo.cs
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.csproj.CoreCompileInputs.cache
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.dll
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\refint\Checkout.dll
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.pdb
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\Checkout.genruntimeconfig.cache
+C:\Users\User\KEA\Checkout System\Checkout\obj\Debug\net6.0\ref\Checkout.dll
